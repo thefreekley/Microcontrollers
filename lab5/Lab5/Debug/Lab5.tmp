@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\Debug\Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab5.map</FILE>
+  <FILE>Lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>46</LINE></Reset>
+  <TIMER4_COMPA><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>85</LINE></TIMER4_COMPA>
+  <Main><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>147</LINE></Main>
+  <Algo1><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>98</LINE></Algo1>
+  <Algo2><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>120</LINE></Algo2>
+  <EndAlgo1><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>113</LINE></EndAlgo1>
+  <EndAlgo2><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>139</LINE></EndAlgo2>
+  <NextStage><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>135</LINE></NextStage>
+  <StartAlgo1><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>162</LINE></StartAlgo1>
+  <StartAlgo2><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>171</LINE></StartAlgo2>
+  <EndBut><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>156</LINE></EndBut>
+  <delay200ms><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>180</LINE></delay200ms>
+  <delay><FILE>C:\Users\thefr\Desktop\Lab 5\Lab5\Lab5\main.asm</FILE><LINE>184</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
